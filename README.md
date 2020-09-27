@@ -172,3 +172,4 @@ elasticsearch.password=SomePassword
 elasticsearch.required_index_status=YELLOW
 elasticsearch.schema_management_strategy=CREATE
 ```
+
